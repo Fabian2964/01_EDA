@@ -20,6 +20,24 @@ Turnstile and fare data was loaded to an SQL database using SQLAlchemy, NYC tran
 The combined dataset was filtered for each CUNY and High-School to show (1) share of top 10 stations of total entries in 2021; (2) top 10 stations by total and %-share; (3) monthly development of top 3 stations by total and %-share; (4) top 10 lines by total and %-share. For line data, frequencies were linearly divided by the number of different lines at each station which may be a limitation to the results on best metro line. Key assumptions include that CUNY frequencies in city areas are representative for general student population in New York, that focus year 2021 is representative for future periods and fare data on metrocard swipes appropriately catches focus groups (CUNY and High-School).
 
 ## Tools
-    •	NumPy and pandas for data manipulation
-    •	Matplotlib and Seaborn for plotting
-    •	Bokeh for interactive visualizations
+    • NumPy and pandas for data manipulation
+    • Matplotlib and Seaborn for plotting
+    • Bokeh for interactive visualizations
+    
+![image](https://user-images.githubusercontent.com/98846184/188969189-b663fcbd-a8b9-4e3b-9afe-524b5d029ff9.png) ![image](https://user-images.githubusercontent.com/98846184/188969208-1528f21e-284f-4785-b0b5-38bb97e1ef00.png)
+
+![image](https://user-images.githubusercontent.com/98846184/188969268-c5a84040-ae27-45d5-80f4-f7f92abb9088.png)
+
+![image](https://user-images.githubusercontent.com/98846184/188969284-ff5f5446-db2f-4e6d-8210-6aacbc8580ae.png)
+
+![image](https://user-images.githubusercontent.com/98846184/188969298-f43a6e24-6408-4bb0-b764-47a75377c088.png)
+
+![image](https://user-images.githubusercontent.com/98846184/188969310-6a0d38df-e560-434a-a205-4af5688f5cb1.png)
+
+![image](https://user-images.githubusercontent.com/98846184/188969323-537a3dff-fb1e-4388-a58a-505f460a41c7.png)
+
+![image](https://user-images.githubusercontent.com/98846184/188969333-86d0c19e-14dd-4f96-9cb5-818b14800f70.png)
+
+![image](https://user-images.githubusercontent.com/98846184/188969338-0327adbf-7c95-41b3-8b6b-56c4284ab0b3.png)
+
+![image](https://user-images.githubusercontent.com/98846184/188969345-3e33c88f-38ec-43ab-86aa-9825d0e98518.png)
